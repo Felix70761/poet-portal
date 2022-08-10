@@ -16,9 +16,9 @@ const Right = () => {
     <div>
         <div className='container'>
    <ul>
-    <li><a href="#">Family</a></li>
-    <li><a href="#">Love</a></li>
-    <li><a href="#">Friendship</a></li>
+    <li><a href="/#">Family</a></li>
+    <li><a href="/#">Love</a></li>
+    <li><a href="/#">Friendship</a></li>
    </ul>
    <a  className='morepoem' href="http://">More Poem</a>
    
@@ -46,10 +46,10 @@ const Right = () => {
    </div>
    <div className='container1'>
    <ul>
-    <li><a href="#">Help</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Terms</a></li>
-    <li><a href="#">Privacy</a></li>
+    <li><a href="/#">Help</a></li>
+    <li><a href="/#">About</a></li>
+    <li><a href="/#">Terms</a></li>
+    <li><a href="/#">Privacy</a></li>
    </ul>
    
     </div>
