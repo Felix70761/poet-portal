@@ -7,7 +7,9 @@ import "./Middle.css"
 const Middle = () => {
   return (
     <div className='middle'>
-<img src="/image/homeimg.PNG" alt="homeimg" />   
+<img src="./image/homeimg.png" alt="" srcset="" />  
+<h4 className='ima'>Poetry connects you with 
+  people all around the globe.</h4>  
         <br /><br />
         <h5>Popular Poems</h5><br />
       {/* <div className='slideshow-container'>      

@@ -22,15 +22,18 @@ body{
 }
 @media screen and (max-width:900px) {
   
-  .app{
+  /* .app{
     background-color: aqua;
-  }
+  } */
   
   #sidebarr{
     display: none;
     /* visibility: hidden; */
     width: 0%;
   }
+  .profcom img{
+    width: 10px;
+}
   #rightbar{
     display: none;
     /* visibility: hidden; */

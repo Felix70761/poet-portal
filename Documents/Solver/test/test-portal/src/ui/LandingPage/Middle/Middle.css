@@ -5,6 +5,31 @@
     border-right: 1px solid rgb(216, 213, 213);
     border-left: 1px solid rgb(216, 213, 213);
 }
+.middle img{
+    width: 479px;
+    margin-left: 30px;
+    height: 240px;
+}
+.ima{
+    position: absolute;
+    margin-left: 30px;
+   width: 478px;
+   height: 117px;
+   top: 101px;
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 32px;
+   line-height: 39px;
+   display: flex;
+   align-items: center;
+   letter-spacing: 0.05em;
+   color: #FFFFFF;
+    /* background-color: red; */
+   }
+   .middle h5{
+    margin-left: 30px;
+   }
 /* 
 .home_middle{
     width: 100%;
@@ -96,6 +121,10 @@ right: 70px;
 } */
 .community h4{
 margin-top: 30%;
+margin-left: 30px;
+}
+.community p{
+    margin-left: 30px;
 }
 .community img{
     width: 30px;
@@ -103,12 +132,12 @@ margin-top: 30%;
 }
 .community h5{
     position: relative;
-    margin-left: 40px;
+    margin-left: 70px;
     bottom: 30px;
 }
 .community h6{
     position: relative;
-    margin-left: 40px;
+    margin-left: 70px;
     bottom: 30px;
     opacity: 0.5;
 }
@@ -138,7 +167,7 @@ color: white;
 .profcom img{
     width: 30px;
     height: 30px;
-    margin-right: 10px;
+    margin-left: 30px;
     margin-top: 5px;
     /* margin-right: 300px; */
     border-radius: 50px;  
@@ -146,19 +175,20 @@ color: white;
 .profcom h3{
     position: relative;
     opacity: 0.7;
-    margin-left: 35px;
+    margin-left: 60px;
     top: -30px;
     
 }
 .timer{
 position: relative;
-margin-left: 130px;
+margin-left: 150px;
 opacity: 0.5;
 top: -50px;
 }
 .profcom p{
     font-family: 'Montserrat';
     font-style: normal;
+    margin-left: 30px;
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
@@ -167,6 +197,8 @@ top: -50px;
 .pmicions{
     position: relative;
     top: 4px;
+    margin-left: 30px;
+   
 }
 .micon3{
     margin-top: 2px;
@@ -174,7 +206,7 @@ top: -50px;
     height: 40px;
     opacity: 0.6;
     position: relative;
-    right:3px;
+    right:7px;
 }
 .micon4{
    position: relative;
@@ -194,7 +226,7 @@ top: -50px;
 .pmicions p{
     position: relative;
     top: -30px;
-    right: -80px;
+    right: -50px;
     opacity: 0.5;
     font-size: 13px;
 }
@@ -204,6 +236,7 @@ top: -50px;
 .comment input{
 background: #c0baba;
 width: 70%;
+margin-left: 30px;
 height: 30px;
 border: 1px solid rgb(207, 205, 205);
 border-radius: 50px;
@@ -241,10 +274,15 @@ text-decoration: none;
 .poem_form{
     margin-right: 200px;
     /* background: red; */
+    margin-left: 30px;
+}
+.paragraphs h3{
+    margin-left: 30px;
 }
 .paragraphs p{
     font-family: 'Montserrat';
     font-style: normal;
+    margin-left: 30px;
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
